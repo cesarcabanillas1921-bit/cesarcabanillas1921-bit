@@ -2,174 +2,84 @@
 
 <h3 align="center">Estudiante de Ingeniería de Computación y Sistemas</h3>
 
-<h3 align="center">📊 Data Science | 🤖 Machine Learning | 🧠 Inteligencia Artificial</h3>
+<p align="center">
+  Data Science · Machine Learning · Inteligencia Artificial
+</p>
 
 <p align="center">
-  Interesado en convertir datos en conocimiento y desarrollar soluciones inteligentes mediante IA.
+  Interesado en desarrollar soluciones basadas en datos y modelos inteligentes.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+<img align="right" alt="Coding" width="300"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 Estudio **Ingeniería de Computación y Sistemas**.
-- 🤖 Mi principal enfoque profesional es **Inteligencia Artificial y Machine Learning**.
-- 📊 Me interesa especialmente la **Ciencia de Datos, el análisis de datos y el modelado predictivo**.
-- 🧠 Disfruto resolver problemas mediante programación, estadística y análisis.
-- 🚀 Actualmente continúo fortaleciendo mis conocimientos en **Data Science, IA, Cloud e Infraestructura como Código**.
-- 💡 También me interesa el **Business Analytics** y el desarrollo de productos tecnológicos basados en datos.
+### 👨‍💻 Sobre mí
 
----
+- 🎓 Estudiante de **Ingeniería de Computación y Sistemas**
+- 📊 Enfocado en **Data Science y análisis de datos**
+- 🤖 Interesado en **Machine Learning e Inteligencia Artificial**
+- 🎯 Objetivo profesional: **Data Scientist / AI Engineer**
 
-## 🎯 Enfoque profesional
-
-Mi objetivo es desarrollarme profesionalmente como:
-
-### 🤖 Data Scientist / AI Engineer
-
-Áreas que más me interesan:
-
-- 📊 Ciencia de Datos
-- 🤖 Machine Learning
-- 🧠 Inteligencia Artificial
-- 📈 Modelado predictivo
-- 🔎 Análisis y exploración de datos
-- 📐 Aprendizaje estadístico
-- 👁️ Visión por Computadora
-- 🧪 Entrenamiento y evaluación de modelos
-- 💡 Soluciones basadas en datos
-
-### 📌 Intereses complementarios
-
-También me interesa aplicar la tecnología y los datos en áreas como:
-
-- Business Analytics
-- Gestión de productos tecnológicos
-- Análisis de procesos
-- Toma de decisiones basada en datos
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías y herramientas
 
-### 🤖 Inteligencia Artificial y Data Science
-
+#### Data Science & IA
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
 </p>
 
 `Python` · `Google Colab` · `Machine Learning` · `Computer Vision`
 
----
-
-### 💻 Lenguajes de programación
-
+#### Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" height="40"/>
 </p>
 
-`Python` · `Java` · `JavaScript` · `Java Swing`
+`Java` · `Java Swing` · `Python` · `JavaScript`
 
----
-
-### 🌐 Desarrollo Web
-
+#### Web y Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres" height="40"/>
 </p>
 
-`HTML` · `CSS` · `JavaScript`
+`HTML` · `CSS` · `MySQL` · `PostgreSQL`
 
----
-
-### 🗄️ Bases de Datos
-
+#### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,vscode" height="40"/>
 </p>
 
-`MySQL` · `PostgreSQL`
+`AWS` · `Docker` · `Terraform` · `Git` · `GitHub` · `VS Code`
 
 ---
 
-### ☁️ Cloud, DevOps e Infraestructura
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github" height="45"/>
-</p>
-
-`AWS` · `Docker` · `Terraform` · `Git` · `GitHub`
-
----
-
-### 🧰 Herramientas de desarrollo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github" height="45"/>
-</p>
-
-`Visual Studio Code` · `GitHub` · `Google Colab`
-
----
-
-## 📋 Perfil
-
-| | Información |
-|---|---|
-| 🎓 **Carrera** | Ingeniería de Computación y Sistemas |
-| 🎯 **Objetivo profesional** | Data Scientist / AI Engineer |
-| 🤖 **Área principal** | Inteligencia Artificial y Machine Learning |
-| 📊 **Intereses** | Data Science, análisis de datos y modelado predictivo |
-| 👁️ **Área de IA** | Visión por Computadora |
-| 💻 **Programación** | Python, Java y JavaScript |
-| 🌐 **Desarrollo Web** | HTML, CSS y JavaScript |
-| 🗄️ **Bases de Datos** | MySQL y PostgreSQL |
-| ☁️ **Cloud / DevOps** | AWS, Docker y Terraform |
-| 💡 **Interés complementario** | Business Analytics y productos basados en datos |
-
----
-
-## 📊 Mis estadísticas de GitHub
+### 📊 Estadísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=tokyonight&hide_border=true&locale=es"
-    height="170"
-  />
-</p>
+  <img height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=tokyonight&hide_border=true&locale=es"
-    height="170"
-  />
+  <img height="160"
+  src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 ---
 
-## 🚀 Áreas en las que estoy trabajando
+### 📫 Contacto
 
-### 🤖 Inteligencia Artificial
-Desarrollo y experimentación con modelos orientados a resolver problemas mediante inteligencia artificial.
-
-### 📊 Ciencia de Datos
-Exploración, procesamiento y análisis de datos para obtener información útil y desarrollar modelos predictivos.
-
-### 👁️ Visión por Computadora
-Aplicación de técnicas de procesamiento de imágenes y modelos de IA para interpretar información visual.
-
-### ☁️ Cloud e Infraestructura
-Aprendizaje y aplicación de Docker, Terraform y servicios en la nube.
-
-### 💻 Desarrollo de Software
-Construcción de soluciones utilizando Java, Python, JavaScript y tecnologías web.
+<p align="left">
+  <a href="https://github.com/cesarcabanillas1921-bit">
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>📊 Datos → 🔎 Conocimiento → 🤖 Soluciones inteligentes</b>
-</p>
-
-<p align="center">
-  <i>Aprendiendo, experimentando y construyendo soluciones impulsadas por datos.</i>
+  <b>Datos → Conocimiento → Soluciones inteligentes</b>
 </p>
