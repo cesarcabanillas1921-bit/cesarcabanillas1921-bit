@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres,mongodb,firebase" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Oracle-242938?style=for-the-badge&logo=oracle&logoColor=F80000" height="48"/>
 </p>
 
 <p align="center">
