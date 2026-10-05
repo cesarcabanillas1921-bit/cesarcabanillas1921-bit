@@ -10,7 +10,9 @@
 
 <div align="center">
 
-### Estudiante de Ingeniería de Computación y Sistemas enfocado en **Data Science, Machine Learning e Inteligencia Artificial** 🇵🇪
+### Estudiante de Ingeniería de Computación y Sistemas enfocado en **Data Science, Machine Learning e Inteligencia Artificial**
+
+<img src="GIF/Peru.gif" width="35" />
 
 </div>
 
