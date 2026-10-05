@@ -179,7 +179,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-
 
 ---
 
-## 🐍 Gráfico de una serpiente que se come mis contribuciones
+## 🐍 Mis contribuciones en movimiento
 
 <p align="center">
   <picture>
@@ -199,5 +199,25 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-
 </p>
 
 ---
+
+</div>
+
+---
+
+## 🦜 Un poco de diversión
+
+<div align="center">
+
+  <img src="https://cultofthepartyparrot.com/parrots/hd/6-7parrot.gif" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="40" height="40"/>
 
 </div>
