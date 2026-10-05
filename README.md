@@ -45,10 +45,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres,mongodb,firebase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48"/>
 </p>
 
 <p align="center">
-  Node.js · Python · MySQL · PostgreSQL · MongoDB · Firebase
+  Node.js · Python · MySQL · PostgreSQL · MongoDB · Firebase · Oracle
 </p>
 
 </td>
