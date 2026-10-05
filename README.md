@@ -123,10 +123,12 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-242938?style=for-the-badge&logo=jira&logoColor=2684FF" height="48"/>
 </p>
 
 <p align="center">
-  GitHub · Visual Studio Code · Figma · Netlify
+  GitHub · Visual Studio Code · Figma · Netlify · Jira
 </p>
 
 </td>
