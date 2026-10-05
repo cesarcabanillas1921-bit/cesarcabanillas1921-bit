@@ -22,11 +22,15 @@
 
 ## 👨‍💻 Sobre mí
 
+<img align="right" src="GIF/PC_Y_DORMIR.gif" width="260" />
+
 - 🎓 Estudiante de **Ingeniería de Computación y Sistemas**.
 - 📊 Interesado en **Ciencia de Datos, análisis de datos y modelado predictivo**.
 - 🤖 Enfocado en **Machine Learning e Inteligencia Artificial**.
 - 👁️ Interesado en **Visión por Computadora** y soluciones basadas en datos.
 - 🎯 Objetivo profesional: desarrollarme como **Data Scientist / AI Engineer**.
+
+<br clear="right"/>
 
 ---
 
@@ -179,7 +183,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-
 
 ---
 
-## 🐍 Mis contribuciones en movimiento
+## 🐍 Serpiente en contribución
 
 <p align="center">
   <picture>
@@ -204,7 +208,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-
 
 ---
 
-## 🦜 Un poco de diversión
+## 🦜 Dev Vibes
 
 <div align="center">
 
