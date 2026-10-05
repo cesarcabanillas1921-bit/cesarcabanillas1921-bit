@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner_github_cesar.gif" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24">
   𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
@@ -15,6 +11,12 @@
 <img src="GIF/Peru.gif" width="35" />
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="banner_github_cesar.gif" width="100%" />
+</p>
 
 ---
 
