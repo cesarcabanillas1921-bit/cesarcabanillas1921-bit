@@ -1,85 +1,196 @@
-<h1 align="center">Hola 👋, soy César</h1>
+<p align="center">
+  <img src="GIF/banner_github_cesar.gif" width="100%" />
+</p>
 
-<h3 align="center">Estudiante de Ingeniería de Computación y Sistemas</h3>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24">
+  𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
+  <img src="GIF/Hi.gif" width="40" />
+</h1>
+
+<div align="center">
+
+### Estudiante de Ingeniería de Computación y Sistemas enfocado en **Data Science, Machine Learning e Inteligencia Artificial** 🇵🇪
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería de Computación y Sistemas**.
+- 📊 Interesado en **Ciencia de Datos, análisis de datos y modelado predictivo**.
+- 🤖 Enfocado en **Machine Learning e Inteligencia Artificial**.
+- 👁️ Interesado en **Visión por Computadora** y soluciones basadas en datos.
+- 🎯 Objetivo profesional: desarrollarme como **Data Scientist / AI Engineer**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ Backend</h3>
 
 <p align="center">
-  Data Science · Machine Learning · Inteligencia Artificial
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres,mongodb,firebase" />
 </p>
 
 <p align="center">
-  Interesado en desarrollar soluciones basadas en datos y modelos inteligentes.
+  Node.js · Python · MySQL · PostgreSQL · MongoDB · Firebase
 </p>
 
----
+</td>
 
-<img align="right" alt="Coding" width="300"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<td width="50%" valign="top">
 
-### 👨‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Computación y Sistemas**
-- 📊 Enfocado en **Data Science y análisis de datos**
-- 🤖 Interesado en **Machine Learning e Inteligencia Artificial**
-- 🎯 Objetivo profesional: **Data Scientist / AI Engineer**
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-#### Data Science & IA
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-</p>
-
-`Python` · `Google Colab` · `Machine Learning` · `Computer Vision`
-
-#### Programación
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" height="40"/>
-</p>
-
-`Java` · `Java Swing` · `Python` · `JavaScript`
-
-#### Web y Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres" height="40"/>
-</p>
-
-`HTML` · `CSS` · `MySQL` · `PostgreSQL`
-
-#### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,vscode" height="40"/>
-</p>
-
-`AWS` · `Docker` · `Terraform` · `Git` · `GitHub` · `VS Code`
-
----
-
-### 📊 Estadísticas
+<h3 align="center">🌐 Frontend</h3>
 
 <p align="center">
-  <img height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-
-  <img height="160"
-  src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
-
----
-
-### 📫 Contacto
-
-<p align="left">
-  <a href="https://github.com/cesarcabanillas1921-bit">
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
-  </a>
-</p>
-
----
 
 <p align="center">
-  <b>Datos → Conocimiento → Soluciones inteligentes</b>
+  HTML · CSS · JavaScript
 </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,kubernetes" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="45" height="45"/>
+</p>
+
+<p align="center">
+  AWS · Google Cloud · Docker · Nginx · Kubernetes · Grafana · Prometheus
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/roboflow/6706CE" width="48" height="48"/>
+</p>
+
+<p align="center">
+  Python · Google Colab · Roboflow
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+<h3 align="center">🧰 Otros</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48"/>
+</p>
+
+<p align="center">
+  GitHub · Visual Studio Code · Figma · Netlify
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💻 Lenguajes de programación
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+<p align="center">
+  Python · Java · JavaScript · Java Swing
+</p>
+
+---
+
+## 🎯 Áreas de interés
+
+<p align="center">
+
+`Data Science` &nbsp;•&nbsp;
+`Machine Learning` &nbsp;•&nbsp;
+`Inteligencia Artificial` &nbsp;•&nbsp;
+`Computer Vision` &nbsp;•&nbsp;
+`Business Analytics`
+
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-bit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+<a href="https://github.com/cesarcabanillas1921-bit">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 📊 Datos → 🔎 Conocimiento → 🤖 Soluciones inteligentes
+
+<i>Aprendiendo, experimentando y construyendo soluciones impulsadas por datos.</i>
+
+</div>
