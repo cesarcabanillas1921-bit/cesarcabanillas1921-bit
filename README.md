@@ -161,10 +161,10 @@
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarcabanillas1921-bit&layout=compact&theme=chartreuse-dark&hide_border=true&locale=es" />
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=es" />
 
 </div>
 
@@ -173,7 +173,7 @@ src="https://github-readme-stats.vercel.app/api?username=cesarcabanillas1921-bit
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-bit&theme=tokyonight&hide_border=true" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-bit&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
