@@ -120,11 +120,11 @@
 <h3 align="center">🧰 Otros</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" alt="GitHub, Visual Studio Code y Figma" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="Netlify"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-242938?style=for-the-badge&logo=jira&logoColor=2684FF" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="48" height="48" alt="Jira"/>
 </p>
 
 <p align="center">
