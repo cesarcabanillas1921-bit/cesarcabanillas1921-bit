@@ -179,22 +179,25 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cesarcabanillas1921-
 
 ---
 
-## 📫 Contacto
+## 🐍 Gráfico de una serpiente que se come mis contribuciones
 
 <p align="center">
-
-<a href="https://github.com/cesarcabanillas1921-bit">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cesarcabanillas1921-bit/cesarcabanillas1921-bit/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cesarcabanillas1921-bit/cesarcabanillas1921-bit/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Serpiente de contribuciones"
+      src="https://raw.githubusercontent.com/cesarcabanillas1921-bit/cesarcabanillas1921-bit/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
-
-<div align="center">
-
-### 📊 Datos → 🔎 Conocimiento → 🤖 Soluciones inteligentes
-
-<i>Aprendiendo, experimentando y construyendo soluciones impulsadas por datos.</i>
 
 </div>
